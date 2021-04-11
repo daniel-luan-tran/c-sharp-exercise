@@ -22,6 +22,9 @@ namespace Mang2Chieu_Exercises
 
             //Xuat ma tran so thuc
             XL_MaTran.Xuatmatran_Sothuc(B);
+
+            //Bai 315: Tim Max cua ma tran so thuc B
+            XL_MaTran.Bai315_TimMax(B);
         }
     }
 }

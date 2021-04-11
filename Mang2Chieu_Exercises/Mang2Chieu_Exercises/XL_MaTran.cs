@@ -29,17 +29,14 @@ namespace Mang2Chieu_Exercises
         {
             Console.WriteLine();
             //Xuat ma tran so nguyen A
-            Console.WriteLine($"Xuat ma tran");
-
-            for (int j = 0; j < A.GetLength(1); j++)
-            {
-                Console.Write($"{A[0, j]} ");
-            }
-            Console.WriteLine();
-
+            Console.WriteLine($"Xuat ma tran so nguyen");
             for (int i = 0; i < A.GetLength(0); i++)
             {
-                Console.Write($"{A[i, 0]} ");
+                for (int j = 0; j < A.GetLength(1); j++)
+                {
+                    Console.Write($"{A[i, j]} ");
+                }
+                Console.WriteLine();
             }
             Console.WriteLine();
         }
@@ -85,25 +82,21 @@ namespace Mang2Chieu_Exercises
         {
             //Xuat ma tran so thuc
             Console.WriteLine($"Xuat ma tran so thuc B");
-            for (int j = 0; j < B.GetLength(1); j++)
-            {
-                Console.Write($"{B[0, j]} ");
+                for (int i = 0; i < B.GetLength(0); i++)
+                {
+                    for (int j = 0; j < B.GetLength(1); j++)
+                    {
+                        Console.Write($"{B[i, j]} ");
+                    }
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
             }
-            Console.WriteLine();
-            
-            for (int i = 0; i < B.GetLength(0); i++)
-            {
-                Console.Write($"{B[i, 0]} ");
-            }
-            Console.WriteLine();
 
-            //Console.WriteLine(B[1, 1]);
-        }
-
-        public static double TimMax(double[,] B)
+        public static double Bai315_TimMax(double[,] B)
         {
             //Tim max cua ma tran so thuc
-            Console.WriteLine("Tim max cua ma tran so thuc");
+            Console.WriteLine("Bai 315_Tim max cua ma tran so thuc");
             double Max = 0;
             for (int i = 0; i < B.GetLength(0); i++)
             {
@@ -115,6 +108,7 @@ namespace Mang2Chieu_Exercises
                     }
                 }
             }
+            Console.WriteLine($"Gia tri lon nhat la: {Max}");
             return Max;
         }
     }
