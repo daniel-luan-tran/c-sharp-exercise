@@ -1,0 +1,13 @@
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.exe
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.deps.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.runtimeconfig.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.runtimeconfig.dev.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\bin\Debug\netcoreapp3.1\Mang2Chieu_Exercises.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.csprojAssemblyReference.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.AssemblyInfoInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.AssemblyInfo.cs
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\c-sharp-exercise\Mang2Chieu_Exercises\Mang2Chieu_Exercises\obj\Debug\netcoreapp3.1\Mang2Chieu_Exercises.genruntimeconfig.cache
