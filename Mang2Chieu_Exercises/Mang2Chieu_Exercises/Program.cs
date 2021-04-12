@@ -25,6 +25,9 @@ namespace Mang2Chieu_Exercises
 
             //Bai 315: Tim Max cua ma tran so thuc B
             XL_MaTran.Bai315_TimMax(B);
+
+            //Bai 316: Kiem tra so nguyen chan be hon 2015
+            XL_MaTran.Bai316_KTSonguyenChanBehon2015(A);
         }
     }
 }
