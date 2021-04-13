@@ -28,6 +28,9 @@ namespace Mang2Chieu_Exercises
 
             //Bai 316: Kiem tra so nguyen chan be hon 2015
             XL_MaTran.Bai316_KTSonguyenChanBehon2015(A);
+
+            //Bai 318: Tong gia tri am cua ma tran so thuc
+            XL_MaTran.Bai318_TongSothucAm(B);
         }
     }
 }
