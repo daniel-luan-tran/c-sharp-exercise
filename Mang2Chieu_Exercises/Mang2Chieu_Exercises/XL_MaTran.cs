@@ -137,7 +137,7 @@ namespace Mang2Chieu_Exercises
             {
                 for (j = 0; j < B.GetLength(1); j++)
                 {
-                    if (B[i,j] < 0)
+                    if (B[i, j] < 0)
                     {
                         S = S + B[i, j];
                     }
@@ -145,6 +145,48 @@ namespace Mang2Chieu_Exercises
             }
             Console.WriteLine($"Tong gia tri am trong ma tran so thuc: {S}");
             return S;
+        }
+
+        public static void Bai319_SapxepSothucTangdanTrenxuongTraisang(double[,] B)
+        {
+            int i, j, k;
+            double tmp1, tmp2;
+
+            for (j = 0; j < B.GetLength(1); j++)
+            {
+                for (i = 0; i < B.GetLength(0); i++)
+                {
+                    for (k = i + 1; k < B.GetLength(0); k++)
+                    {
+                        if (B[i,j] > B[k,j])
+                        {
+                            tmp1 = B[i, j];
+                            B[i, j] = B[k, j];
+                            B[k, j] = tmp1;
+                        }
+                    }
+                }
+            }
+
+            for (i = 0; i < B.GetLength(0); i++)
+            {
+                for (j = 0; j < B.GetLength(1); j++)
+                {
+                    for (k = j + 1; k < B.GetLength(1); k++)
+                    {
+                        if (B[i,j] > B[i,k])
+                        {
+                            tmp2 = B[i, j];
+                            B[i, j] = B[i, k];
+                            B[i, k] = tmp2;
+                        }
+                    }
+                }
+            }
+
+            Console.WriteLine($"Sap xep so thuc tang dan tu tren xuong va tu trai sang: ");
+            Xuatmatran_Sothuc(B);
+            Console.WriteLine();
         }
     }
 }
