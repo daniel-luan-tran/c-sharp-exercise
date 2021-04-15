@@ -24,16 +24,16 @@ namespace Mang2Chieu_Exercises
             XL_MaTran.Xuatmatran_Sothuc(B);
 
             //Bai 315: Tim Max cua ma tran so thuc B
-            XL_MaTran.Bai315_TimMax(B);
+            Bai_315.TimMax(B);
 
             //Bai 316: Kiem tra so nguyen chan be hon 2015
-            XL_MaTran.Bai316_KTSonguyenChanBehon2015(A);
+            Bai_316.KTSonguyenChanBehon2015(A);
 
             //Bai 318: Tong gia tri am cua ma tran so thuc
-            XL_MaTran.Bai318_TongSothucAm(B);
+            Bai_318.TongSothucAm(B);
 
             //Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
-            XL_MaTran.Bai319_SapxepSothucTangdanTrenxuongTraisang(B);
+            Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
         }
     }
 }

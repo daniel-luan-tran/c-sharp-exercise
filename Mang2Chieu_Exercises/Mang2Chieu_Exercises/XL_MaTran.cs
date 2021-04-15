@@ -82,110 +82,14 @@ namespace Mang2Chieu_Exercises
         {
             //Xuat ma tran so thuc
             Console.WriteLine($"Xuat ma tran so thuc B");
-                for (int i = 0; i < B.GetLength(0); i++)
-                {
-                    for (int j = 0; j < B.GetLength(1); j++)
-                    {
-                        Console.Write($"{B[i, j]} ");
-                    }
-                    Console.WriteLine();
-                }
-                Console.WriteLine();
-            }
-
-        public static double Bai315_TimMax(double[,] B)
-        {
-            //Tim max cua ma tran so thuc
-            Console.WriteLine("Bai 315_Tim max cua ma tran so thuc");
-            double Max = 0;
             for (int i = 0; i < B.GetLength(0); i++)
             {
                 for (int j = 0; j < B.GetLength(1); j++)
                 {
-                    if (B[i,j] > Max)
-                    {
-                        Max = B[i, j];
-                    }
+                    Console.Write($"{B[i, j]} ");
                 }
+                Console.WriteLine();
             }
-            Console.WriteLine($"Gia tri lon nhat la: {Max}");
-            return Max;
-        }
-
-        public static bool Bai316_KTSonguyenChanBehon2015 (int[,] A)
-        {
-            int i, j;
-            bool KT = false;
-            for (i = 0; i < A.GetLength(0); i++)
-            {
-                for (j = 0; j < A.GetLength(1); j++)
-                {
-                    if (A[i,j] % 2 == 0 && A[i,j] < 2015)
-                    {
-                        KT = true;     
-                    }
-                }
-            }
-            Console.WriteLine(KT);
-            return KT;
-        }
-        public static double Bai318_TongSothucAm(double[,] B)
-        {
-            int i, j;
-            double S = 0;
-            for (i = 0; i < B.GetLength(0); i++)
-            {
-                for (j = 0; j < B.GetLength(1); j++)
-                {
-                    if (B[i, j] < 0)
-                    {
-                        S = S + B[i, j];
-                    }
-                }
-            }
-            Console.WriteLine($"Tong gia tri am trong ma tran so thuc: {S}");
-            return S;
-        }
-
-        public static void Bai319_SapxepSothucTangdanTrenxuongTraisang(double[,] B)
-        {
-            int i, j, k;
-            double tmp;
-
-            for (j = 0; j < B.GetLength(1); j++)
-            {
-                for (i = 0; i < B.GetLength(0); i++)
-                {
-                    for (k = i + 1; k < B.GetLength(0); k++)
-                    {
-                        if (B[i, j] > B[k, j])
-                        {
-                            tmp = B[i, j];
-                            B[i, j] = B[k, j];
-                            B[k, j] = tmp;
-                        }
-                    }
-                }
-            }
-
-            for (i = 0; i < B.GetLength(0); i++)
-            {
-                for (j = 0; j < B.GetLength(1); j++)
-                {
-                    for (k = j + 1; k < B.GetLength(1); k++)
-                    {
-                        if (B[i, j] > B[i, k])
-                        {
-                            tmp = B[i, j];
-                            B[i, j] = B[i, k];
-                            B[i, k] = tmp;
-                        }
-                    }
-                }
-            }
-
-            Console.WriteLine($"Sap xep so thuc tang dan tu tren xuong va tu trai sang: ");
-            Xuatmatran_Sothuc(B);
             Console.WriteLine();
         }
     }
