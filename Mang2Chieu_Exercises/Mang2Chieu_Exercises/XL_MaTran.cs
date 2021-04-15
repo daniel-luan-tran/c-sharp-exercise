@@ -150,7 +150,7 @@ namespace Mang2Chieu_Exercises
         public static void Bai319_SapxepSothucTangdanTrenxuongTraisang(double[,] B)
         {
             int i, j, k;
-            double tmp1, tmp2;
+            double tmp;
 
             for (j = 0; j < B.GetLength(1); j++)
             {
@@ -158,11 +158,11 @@ namespace Mang2Chieu_Exercises
                 {
                     for (k = i + 1; k < B.GetLength(0); k++)
                     {
-                        if (B[i,j] > B[k,j])
+                        if (B[i, j] > B[k, j])
                         {
-                            tmp1 = B[i, j];
+                            tmp = B[i, j];
                             B[i, j] = B[k, j];
-                            B[k, j] = tmp1;
+                            B[k, j] = tmp;
                         }
                     }
                 }
@@ -174,11 +174,11 @@ namespace Mang2Chieu_Exercises
                 {
                     for (k = j + 1; k < B.GetLength(1); k++)
                     {
-                        if (B[i,j] > B[i,k])
+                        if (B[i, j] > B[i, k])
                         {
-                            tmp2 = B[i, j];
+                            tmp = B[i, j];
                             B[i, j] = B[i, k];
-                            B[i, k] = tmp2;
+                            B[i, k] = tmp;
                         }
                     }
                 }
