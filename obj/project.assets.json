@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\Mang2Chieu_Exercises\\Mang2Chieu_Exercises\\Mang2Chieu_Exercises.csproj",
+      "projectUniqueName": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\Mang2Chieu_Exercises.csproj",
       "projectName": "Mang2Chieu_Exercises",
-      "projectPath": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\Mang2Chieu_Exercises\\Mang2Chieu_Exercises\\Mang2Chieu_Exercises.csproj",
+      "projectPath": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\Mang2Chieu_Exercises.csproj",
       "packagesPath": "C:\\Users\\UserDLT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\Mang2Chieu_Exercises\\Mang2Chieu_Exercises\\obj\\",
+      "outputPath": "C:\\Users\\UserDLT\\OneDrive\\KHTN\\Nhap_Mon_Lap_Trinh\\c-sharp-exercise\\c-sharp-exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UserDLT\\AppData\\Roaming\\NuGet\\NuGet.Config",
