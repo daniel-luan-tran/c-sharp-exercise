@@ -6,7 +6,6 @@ namespace Mang2Chieu_Exercises
         public static void SapxepSothucTangdanTrenxuongTraisang(double[,] B)
         {
             int i, j, k;
-            double tmp;
 
             for (j = 0; j < B.GetLength(1); j++)
             {
@@ -16,9 +15,7 @@ namespace Mang2Chieu_Exercises
                     {
                         if (B[i, j] > B[k, j])
                         {
-                            tmp = B[i, j];
-                            B[i, j] = B[k, j];
-                            B[k, j] = tmp;
+                            HoanVi.Hoan_Vi(B, i, j, k, j);
                         }
                     }
                 }
@@ -32,17 +29,19 @@ namespace Mang2Chieu_Exercises
                     {
                         if (B[i, j] > B[i, k])
                         {
-                            tmp = B[i, j];
-                            B[i, j] = B[i, k];
-                            B[i, k] = tmp;
+                            HoanVi.Hoan_Vi(B, i, j, i, k);
                         }
                     }
                 }
             }
             
+
+
             Console.WriteLine($"Sap xep so thuc tang dan tu tren xuong va tu trai sang: ");
             XL_MaTran.Xuatmatran_Sothuc(B);
             Console.WriteLine();
+
+
         }
     }
 }
