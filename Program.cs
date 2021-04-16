@@ -34,7 +34,6 @@ namespace Mang2Chieu_Exercises
 
             //Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
             Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
-
         }
     }
 }

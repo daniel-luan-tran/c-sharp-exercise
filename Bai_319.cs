@@ -34,14 +34,26 @@ namespace Mang2Chieu_Exercises
                     }
                 }
             }
-            
-
 
             Console.WriteLine($"Sap xep so thuc tang dan tu tren xuong va tu trai sang: ");
             XL_MaTran.Xuatmatran_Sothuc(B);
             Console.WriteLine();
 
+            int M = B.GetLength(0), N = B.GetLength(1);
+            for (i = 0; i < M*N -1; i++)
+            {
+                for (j = i + 1; j < M*N; j++)
+                {
+                    if (B[i / N, i % N] > B[j / N, j % N])
+                    {
+                        HoanVi.Hoan_Vi(B, i / N, i % N, j / N, j % N);
+                    }
+                }
+            }
 
+            Console.WriteLine($"Sap xep so thuc tang dan tu tren xuong va tu trai sang full: ");
+            XL_MaTran.Xuatmatran_Sothuc(B);
+            Console.WriteLine();
         }
     }
 }
