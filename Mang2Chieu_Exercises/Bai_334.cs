@@ -20,11 +20,11 @@ namespace Mang2Chieu_Exercises
             }
 			if (count == 0)
 			{
-				Console.WriteLine("Khong co so duong nao trong mang so thuc");
+				Console.WriteLine("Khong co so duong nao trong ma tran so thuc");
 			}
 			else
             {
-				Console.WriteLine($"Co {count} so duong trong mang so thuc");
+				Console.WriteLine($"Co {count} so duong trong ma tran so thuc");
 			}
 		}
 	}
