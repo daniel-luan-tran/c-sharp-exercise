@@ -11,7 +11,6 @@ namespace Mang2Chieu_Exercises
             //Tinh tong cac phan tu tren ma tran
             int[,] A;
             A = XL_MaTran.Nhapmatran_Songuyen();
-            //int S = XL_MaTran.TinhTong(A);
 
             //Xuat ma tran so nguyen
             XL_MaTran.Xuatmatran_Songuyen(A);
@@ -21,6 +20,10 @@ namespace Mang2Chieu_Exercises
 
             //Bai 335: Dem so luong so nguyen to trong ma tran so nguyen
             Bai_335.PrimeCount(A);
+
+            //Bai 337: Dem so chu so trong ma tran nguyen duong
+            uint[,] A_duong = XL_MaTran.Nhapmatran_Songuyen_Duong();
+            Bai_337.NumberCount(A_duong);
 
             //Nhap ma tran so thuc
             double[,] B;
@@ -35,14 +38,17 @@ namespace Mang2Chieu_Exercises
             //Bai 318: Tong gia tri am cua ma tran so thuc
             Bai_318.TongSothucAm(B);
 
-            //Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
-            Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
+            ////Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
+            //Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
 
             //Bai 334: Dem so luong so thuc duong trong ma tran
             Bai_334.PositiveCount(B);
 
             //Bai 336: Tan suat xuat hien cua so thuc x trong ma tran so thuc
             Bai_336.x_Count(B);
+
+            //Bai_353: Kiem tra ma tran so thuc co tang dan
+            Bai_353.AscentCheck(B);
         }
     }
 }

@@ -25,6 +25,30 @@ namespace Mang2Chieu_Exercises
             }
             return A;
         }
+
+        public static uint[,] Nhapmatran_Songuyen_Duong()
+        {
+            //Nhap ma tra so nguyen duong A_duong
+            Console.Write("Nhap so dong cua ma tran so nguyen A duong: ");
+            int N = int.Parse(Console.ReadLine());
+
+            Console.Write("Nhap so cot cua ma tran so nguyen A duong: ");
+            int M = int.Parse(Console.ReadLine());
+
+            uint[,] arr = new uint[N, M];
+
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < M; j++)
+                {
+                    Console.WriteLine($"Nhap A[{i},{j}]");
+                    arr[i, j] = uint.Parse(Console.ReadLine());
+                }
+            }
+            return arr;
+        }
+
+
         public static void Xuatmatran_Songuyen(int[,] A)
         {
             Console.WriteLine();
