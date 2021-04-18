@@ -2,7 +2,7 @@
 
 namespace Mang2Chieu_Exercises
 {
-	class Bai_334
+	class Bai_334 //Dem so luong so thuc duong trong ma tran so thuc
 	{
 		public static void PositiveCount(double[,]arr)
 		{
