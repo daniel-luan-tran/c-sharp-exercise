@@ -13,17 +13,17 @@ namespace Mang2Chieu_Exercises
             Console.Write("Nhap so cot cua ma tran so nguyen A: ");
             int M = int.Parse(Console.ReadLine());
 
-            int[, ] A = new int[N, M];
+            int[, ] arr = new int[N, M];
 
             for (int i = 0; i < N; i++)
             {
                 for (int j = 0; j < M; j++)
                 {
                     Console.WriteLine($"Nhap A[{i},{j}]");
-                    A[i, j] = int.Parse(Console.ReadLine());
+                    arr[i, j] = int.Parse(Console.ReadLine());
                 }
             }
-            return A;
+            return arr;
         }
 
         public static uint[,] Nhapmatran_Songuyen_Duong()
@@ -49,16 +49,16 @@ namespace Mang2Chieu_Exercises
         }
 
 
-        public static void Xuatmatran_Songuyen(int[,] A)
+        public static void Xuatmatran_Songuyen(int[,] arr)
         {
             Console.WriteLine();
             //Xuat ma tran so nguyen A
             Console.WriteLine($"Xuat ma tran so nguyen");
-            for (int i = 0; i < A.GetLength(0); i++)
+            for (int i = 0; i < arr.GetLength(0); i++)
             {
-                for (int j = 0; j < A.GetLength(1); j++)
+                for (int j = 0; j < arr.GetLength(1); j++)
                 {
-                    Console.Write($"{A[i, j]} ");
+                    Console.Write($"{arr[i, j]} ");
                 }
                 Console.WriteLine();
             }
@@ -102,19 +102,37 @@ namespace Mang2Chieu_Exercises
             }
             return A;
         }
-        public static void Xuatmatran_Sothuc(double[,] B)
+        public static void Xuatmatran_Sothuc(double[,] arr)
         {
             //Xuat ma tran so thuc
             Console.WriteLine($"Xuat ma tran so thuc B");
-            for (int i = 0; i < B.GetLength(0); i++)
+            for (int i = 0; i < arr.GetLength(0); i++)
             {
-                for (int j = 0; j < B.GetLength(1); j++)
+                for (int j = 0; j < arr.GetLength(1); j++)
                 {
-                    Console.Write($"{B[i, j]} ");
+                    Console.Write($"{arr[i, j]} ");
                 }
                 Console.WriteLine();
             }
             Console.WriteLine();
+        }
+
+        public static int Count(double[,] arr, double x)
+        {
+            //Dem so luong gia tri xuat hien
+            int count = 0;
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    if (x == arr[i,j])
+                    {
+                        count++;
+                    }
+                }
+            }
+            Console.WriteLine($"Gia tri {x} xuat hien {count} lan");
+            return count;
         }
     }
 }
