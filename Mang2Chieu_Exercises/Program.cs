@@ -40,26 +40,29 @@ namespace Mang2Chieu_Exercises
             ///////////////////////////////
 
 
-            ////Bai 315: Tim Max cua ma tran so thuc B
-            //Bai_315.TimMax(B);
+            //Bai 315: Tim Max cua ma tran so thuc B
+            Bai_315.TimMax(B);
 
-            ////Bai 318: Tong gia tri am cua ma tran so thuc
-            //Bai_318.TongSothucAm(B);
+            //Bai 318: Tong gia tri am cua ma tran so thuc
+            Bai_318.TongSothucAm(B);
 
-            ////Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
-            //Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
+            //Bai 319: Sap xep so thuc tang dan tu tren xuong va tu trai sang
+            Bai_319.SapxepSothucTangdanTrenxuongTraisang(B);
 
-            ////Bai_353: Kiem tra ma tran so thuc co tang dan
-            //Bai_353.AscentCheck(B);
+            //Bai_353: Kiem tra ma tran so thuc co tang dan
+            Bai_353.AscentCheck(B);
 
-            ////Bai 334: Dem so luong so thuc duong trong ma tran
-            //Bai_334.PositiveCount(B);
+            //Bai 334: Dem so luong so thuc duong trong ma tran
+            Bai_334.PositiveCount(B);
 
-            ////Bai 336: Tan suat xuat hien cua so thuc x trong ma tran so thuc
-            //Bai_336.x_Count(B);
+            //Bai 336: Tan suat xuat hien cua so thuc x trong ma tran so thuc
+            Bai_336.x_Count(B);
 
             //Bai 381: Tim gia tri xuat hien nhieu nhat trong ma tran so thuc B
             Bai_381.MostAppearValue(B);
+
+            //Bai 366: Tim so chan dau tien trong ma trran so thuc
+            Bai_366.FirstEven(B);
         }
     }
 }
