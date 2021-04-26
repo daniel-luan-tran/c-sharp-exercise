@@ -24,13 +24,8 @@ namespace DataTypeDef
 
         public static double TinhKhoangCach(DIEM diem1, DIEM diem2)
         {
-            return Math.Sqrt(((diem1.X - diem2.X) * diem1.X - diem2.X))
-                + ((diem1.Y - diem2.Y) * (diem1.Y - diem2.Y));
+            return Math.Sqrt((diem1.X - diem2.X) * (diem1.X - diem2.X)
+                + (diem1.Y - diem2.Y) * (diem1.Y - diem2.Y));
         }
     }
-}
-{
-    public Class1()
-	{
-	}
 }
