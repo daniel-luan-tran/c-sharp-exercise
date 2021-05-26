@@ -67,6 +67,10 @@ namespace Mang2Chieu_Exercises
 
             //Bai 323: Tinh tong cac gia tri duong tren cot
             Console.WriteLine(Bai_323.TinhTongDuongCot(B, 1));
+
+            //Bai 329: Tri tuyet cac gia tri am trong ma tran
+            Bai_329.TriTuyetDoi(B);
+            XL_MaTran.Xuatmatran_Sothuc(B);
         }
     }
 }
