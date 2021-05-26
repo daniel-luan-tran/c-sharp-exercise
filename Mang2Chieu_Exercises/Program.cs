@@ -59,18 +59,11 @@ namespace Mang2Chieu_Exercises
             Bai_336.x_Count(B);
 
             //Bai 381: Tim gia tri xuat hien nhieu nhat trong ma tran so thuc B
-<<<<<<< HEAD
             //Bai_381.MostAppearValue(B);
 
             //Bai 322: Tih tong dong
             //Bai_322.TinhTongDong(B, 1);
             Console.WriteLine(Bai_322.TinhTongDong(B, 1));
-=======
-            Bai_381.MostAppearValue(B);
-
-            //Bai 366: Tim so chan dau tien trong ma trran so thuc
-            Bai_366.FirstEven(B);
->>>>>>> 4b23e3609e076d4170f261b3b4434719569ebeb9
         }
     }
 }
