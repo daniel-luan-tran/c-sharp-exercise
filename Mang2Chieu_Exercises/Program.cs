@@ -10,24 +10,24 @@ namespace Mang2Chieu_Exercises
 
 
             ///////////////////////////////
-            //Nhap ma tran so nguyen A
-            int[,] A;
-            A = XL_MaTran.Nhapmatran_Songuyen();
+            ////Nhap ma tran so nguyen A
+            //int[,] A;
+            //A = XL_MaTran.Nhapmatran_Songuyen();
 
-            //Xuat ma tran so nguyen
-            XL_MaTran.Xuatmatran_Songuyen(A);
+            ////Xuat ma tran so nguyen
+            //XL_MaTran.Xuatmatran_Songuyen(A);
             ///////////////////////////////
 
 
-            //Bai 316: Kiem tra so nguyen chan be hon 2015
-            Bai_316.KTSonguyenChanBehon2015(A);
+            ////Bai 316: Kiem tra so nguyen chan be hon 2015
+            //Bai_316.KTSonguyenChanBehon2015(A);
 
-            //Bai 335: Dem so luong so nguyen to trong ma tran so nguyen
-            Bai_335.PrimeCount(A);
+            ////Bai 335: Dem so luong so nguyen to trong ma tran so nguyen
+            //Bai_335.PrimeCount(A);
 
-            //Bai 337: Dem so chu so trong ma tran nguyen duong
-            uint[,] A_duong = XL_MaTran.Nhapmatran_Songuyen_Duong();
-            Bai_337.NumberCount(A_duong);
+            ////Bai 337: Dem so chu so trong ma tran nguyen duong
+            //uint[,] A_duong = XL_MaTran.Nhapmatran_Songuyen_Duong();
+            //Bai_337.NumberCount(A_duong);
 
 
             ///////////////////////////////
@@ -59,7 +59,11 @@ namespace Mang2Chieu_Exercises
             //Bai_336.x_Count(B);
 
             //Bai 381: Tim gia tri xuat hien nhieu nhat trong ma tran so thuc B
-            Bai_381.MostAppearValue(B);
+            //Bai_381.MostAppearValue(B);
+
+            //Bai 322: Tih tong dong
+            //Bai_322.TinhTongDong(B, 1);
+            Console.WriteLine(Bai_322.TinhTongDong(B, 1));
         }
     }
 }
