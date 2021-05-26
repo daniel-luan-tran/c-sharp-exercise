@@ -1,0 +1,13 @@
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.exe
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.deps.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.runtimeconfig.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.runtimeconfig.dev.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\bin\Debug\netcoreapp3.1\DataTypeDef.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.csprojAssemblyReference.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.AssemblyInfoInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.AssemblyInfo.cs
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.csproj.CoreCompileInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DataTypeDef\obj\Debug\netcoreapp3.1\DataTypeDef.genruntimeconfig.cache
