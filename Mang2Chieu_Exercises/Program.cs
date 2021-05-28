@@ -9,14 +9,14 @@ namespace Mang2Chieu_Exercises
             Console.WriteLine("Hello World!");
 
 
-            ///////////////////////////////
-            ////Nhap ma tran so nguyen A
-            //int[,] A;
-            //A = XL_MaTran.Nhapmatran_Songuyen();
+            /////////////////////////////
+            //Nhap ma tran so nguyen A
+            int[,] A;
+            A = XL_MaTran.Nhapmatran_Songuyen();
 
-            ////Xuat ma tran so nguyen
-            //XL_MaTran.Xuatmatran_Songuyen(A);
-            ///////////////////////////////
+            //Xuat ma tran so nguyen
+            XL_MaTran.Xuatmatran_Songuyen(A);
+            /////////////////////////////
 
 
             ////Bai 316: Kiem tra so nguyen chan be hon 2015
@@ -29,15 +29,23 @@ namespace Mang2Chieu_Exercises
             //uint[,] A_duong = XL_MaTran.Nhapmatran_Songuyen_Duong();
             //Bai_337.NumberCount(A_duong);
 
+            /////////////////////////////////
+            ////Nhap ma tran so thuc
+            //double[,] A;
+            //A = XL_MaTran.Nhapmatran_Sothuc();
 
-            ///////////////////////////////
-            //Nhap ma tran so thuc
-            double[,] B;
-            B = XL_MaTran.Nhapmatran_Sothuc();
+            ////Xuat ma tran so thuc
+            //XL_MaTran.Xuatmatran_Sothuc(A);
+            /////////////////////////////////
 
-            //Xuat ma tran so thuc
-            XL_MaTran.Xuatmatran_Sothuc(B);
-            ///////////////////////////////
+            /////////////////////////////////
+            ////Nhap ma tran so thuc
+            //double[,] B;
+            //B = XL_MaTran.Nhapmatran_Sothuc();
+
+            ////Xuat ma tran so thuc
+            //XL_MaTran.Xuatmatran_Sothuc(B);
+            /////////////////////////////////
 
 
             ////Bai 315: Tim Max cua ma tran so thuc B
@@ -63,14 +71,26 @@ namespace Mang2Chieu_Exercises
 
             //Bai 322: Tinh tong dong
             //Bai_322.TinhTongDong(B, 1);
-            Console.WriteLine(Bai_322.TinhTongDong(B, 1));
+            //Console.WriteLine(Bai_322.TinhTongDong(B, 1));
 
-            //Bai 323: Tinh tong cac gia tri duong tren cot
-            Console.WriteLine(Bai_323.TinhTongDuongCot(B, 1));
+            ////Bai 323: Tinh tong cac gia tri duong tren cot
+            //Console.WriteLine(Bai_323.TinhTongDuongCot(B, 1));
 
-            //Bai 329: Tri tuyet cac gia tri am trong ma tran
-            Bai_329.TriTuyetDoi(B);
-            XL_MaTran.Xuatmatran_Sothuc(B);
+            ////Bai 329: Tri tuyet cac gia tri am trong ma tran
+            //Bai_329.TriTuyetDoi(B);
+            //XL_MaTran.Xuatmatran_Sothuc(B);
+
+            ////Bai 368: Tim gia tri lon thu hai
+            //Bai_368.SecondMaxFilter(B);
+
+            ////Bai 364: Kiem tra ma tran A co la ma tran con cua ma tran B
+            //Bai_364.KiemTraTapCon(A, B, A.GetLength(0), A.GetLength(1), B.GetLength(0), B.GetLength(1));
+
+            //Bai 358: Liet ke cac dong co so chan
+            Bai_358.RowEvenCheck(A);
+
+            //Bai 360: Liet ke cot co so chinh phuong
+            Bai_360.ColumnSquareNoCheck(A);
         }
     }
 }

@@ -5,7 +5,7 @@ Chương 6: Ma trận
 ---Bài 316: Viết hàm kiểm tra trong ma trận số nguyên có tồn tại giá trị chẵn nhỏ hơn 2015?
 ---Bài 317: Viết hàm đếm số lượng số nguyên tố trong ma trận số nguyên
 ---Bài 318: Viết hàm tính tổng các giá trị âm trong ma trận số thực
----Bài 319: Viết hàm sắp xếp ma trận các số thực tăng dần từ trên xuống dưới và từ trái sang phải
+***Bài 319: Viết hàm sắp xếp ma trận các số thực tăng dần từ trên xuống dưới và từ trái sang phải
 Kỹ thuật tính toán
 Bài 320: Tính tổng các số dương trong ma trận các số thực
 Bài 321: Tính tích các giá trị lẻ trong ma trận các số nguyên
@@ -37,9 +37,9 @@ Bài 345(*): Tính tổng các phần tử cực trị trong ma trận các số
 Bài 346(*): Đếm số lượng giá trị “Hoàng Hậu” trên ma trận. Một phần tử được gọi là Hoàng Hậu khi nó lớn nhất trên dòng, trên cột và 2 đường chéo đi qua nó
 Bài 347(*): Đếm số lượng giá trị “Yên Ngựa” trên ma trận. Một phần tử được gọi là Yên Ngựa khi nó lớn nhất trên dòng và nhỏ nhất trên cột
 Kỹ thuật đặt cờ hiệu
-Bài 348: Kiểm tra ma trận có tồn tại số dương hay không
+-Bài 348: Kiểm tra ma trận có tồn tại số dương hay không
 Bài 349: Kiểm tra ma trận có tồn tại số hoàn thiện hay không
-Bài 350: Kiểm tra ma trận có tồn tại số lẻ hay không
+-Bài 350: Kiểm tra ma trận có tồn tại số lẻ hay không
 ---Bài 351: Kiểm tra ma trận có toàn dương hay không
 ---Bài 352: Kiểm tra một hàng ma trận có tăng dần hay không
 ---Bài 353: Kiểm tra một cột ma trận có giảm dần hay không
@@ -47,18 +47,18 @@ Bài 350: Kiểm tra ma trận có tồn tại số lẻ hay không
 --Bài 355: Liệt kê các dòng toàn âm trong ma trận các số thực
 -Bài 356: Liệt kê chỉ số các dòng chứa toàn giá trị chẵn trong ma trận các số nguyên
 --Bài 357: Liệt kê các dòng có chứa số nguyên tố trong ma trận các số nguyên
-Bài 358: Liệt kê các dòng có chứa giá trị chẵn trong ma trận các số nguyên
-Bài 359: Liệt kê các dòng có chứa giá trị âm trong ma trận các số thực
-Bài 360: Liệt kê các cột trong ma trận các số nguyên có chứa số chính phương
-Bài 361: Liệt kê các dòng trong ma trận các số thực thỏa mãn đồng thời các điều kiện sau:  dòng có chứa giá trị âm, giá trị 0 và giá trị dương
-Bài 362: Liệt kê các dòng giảm dần trong ma trận
-Bài 363: Liệt kê các cột tăng dần trong ma trận
-Bài 364: Cho 2 ma trận A và B. Kiểm tra xem ma trận A có là ma trận con của ma trận B hay không
+---Bài 358: Liệt kê các dòng có chứa giá trị chẵn trong ma trận các số nguyên
+-Bài 359: Liệt kê các dòng có chứa giá trị âm trong ma trận các số thực
+---Bài 360: Liệt kê các cột trong ma trận các số nguyên có chứa số chính phương
+-Bài 361: Liệt kê các dòng trong ma trận các số thực thỏa mãn đồng thời các điều kiện sau:  dòng có chứa giá trị âm, giá trị 0 và giá trị dương
+--Bài 362: Liệt kê các dòng giảm dần trong ma trận
+-Bài 363: Liệt kê các cột tăng dần trong ma trận
+***Bài 364: Cho 2 ma trận A và B. Kiểm tra xem ma trận A có là ma trận con của ma trận B hay không
 Bài 365: Cho 2 ma trận A và B. Đếm số lần xuất hiện của ma trận A trong ma trận B
 Kỹ thuật đặt lính canh
 ---Bài 366: Tìm số chẵn đầu tiên trong ma trận
-Bài 367: Tìm max trong ma trận
-Bài 368: Tìm giá trị lớn thứ 2 trong ma trận
+--Bài 367: Tìm max trong ma trận
+***Bài 368: Tìm giá trị lớn thứ 2 trong ma trận
 Bài 369: Tìm số dương đầu tiên trong ma trận
 Bài 370: Tìm giá trị âm lớn nhất trong ma trận
 Bài 371: Liệt kê các dòng có chứa max
