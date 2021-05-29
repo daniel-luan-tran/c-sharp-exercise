@@ -86,11 +86,29 @@ namespace Mang2Chieu_Exercises
             ////Bai 364: Kiem tra ma tran A co la ma tran con cua ma tran B
             //Bai_364.KiemTraTapCon(A, B, A.GetLength(0), A.GetLength(1), B.GetLength(0), B.GetLength(1));
 
-            //Bai 358: Liet ke cac dong co so chan
-            Bai_358.RowEvenCheck(A);
+            ////Bai 358: Liet ke cac dong co so chan
+            //Bai_358.RowEvenCheck(A);
 
-            //Bai 360: Liet ke cot co so chinh phuong
-            Bai_360.ColumnSquareNoCheck(A);
+            ////Bai 360: Liet ke cot co so chinh phuong
+            //Bai_360.ColumnSquareNoCheck(A);
+
+            ////Bai 328: Tinh trung binh nhan
+            //Bai_328.AvrMulti(B);
+
+            ////Bai 330: Lay phan nguyen cac gia tri trong ma tran
+            //Bai_330.LayPhanNguyen(B);
+
+            ////Bai 338: Dem so luong so duong tren mot hang trong ma tran so thuc
+            //Bai_338.RowPositiveCount(B, 2);
+
+            ////Bai 341: Dem so luong so duong tren bien cua ma tran
+            //Bai_341.EdgePositiveCount(B);
+
+            ////Bai 355: Liet ke cac dong toan am
+            //Bai_355.RowAllNegativeCheck(B);
+
+            //Bai 357: Liet ke cac dong chua so nguyen to
+            Bai_357.SoNguyenToRowFilter(A);
         }
     }
 }

@@ -15,9 +15,9 @@ Bài 321: Tính tích các giá trị lẻ trong ma trận các số nguyên
 -Bài 325: Tính tích các số chẵn trên 1 cột trong ma trận các số nguyên
 -Bài 326: Tính trung bình cộng các số dương trong ma trận các số thực
 ---Bài 327: Tính tổng các giá trị nằm trên biên của ma trận
---Bài 328: Tính trung bình nhân các số dương trong ma trận các số thực
+---Bài 328: Tính trung bình nhân các số dương trong ma trận các số thực
 --Bài 329: Hãy biến đổi ma trận bằng cách thay các giá trị âm bằng trị tuyệt đối của nó
---Bài 330: Hãy biên đổi ma trận số thực bằng cách thay các giá trị bằng giá trị nguyên gần nó nhất
+---Bài 330: Hãy biên đổi ma trận số thực bằng cách thay các giá trị bằng giá trị nguyên gần nó nhất
 Bài 331: Tính tổng các giá trị trên 1 dòng của ma trận các số thực
 Bài 332: Tính tổng các giá trị lẻ trên 1 cột của ma trận các số nguyên
 Bài 333: Tính tổng các số hoàn thiện trong ma trận các số nguyên
@@ -26,10 +26,10 @@ Kỹ thuật đếm
 ---Bài 335: Đếm số lượng số nguyên tố trong ma trận các số nguyên
 ---Bài 336: Đếm tần suất xuất hiện của 1 giá trị x trong ma trận các số thực
 ---Bài 337: Đếm số chữ số trong ma trận các số nguyên dương
---Bài 338: Đếm số lượng số dương trên 1 hàng trong ma trận các số thực
+---Bài 338: Đếm số lượng số dương trên 1 hàng trong ma trận các số thực
 Bài 339: Đếm số lượng số hoàn thiện trên 1 hàng trong ma trận các số nguyên
 -Bài 340: Đếm số lượng số âm trên 1 cột trong ma trận các số thực
---Bài 341: Đếm số lượng số dương trên biên trong ma trận các số thực
+---Bài 341: Đếm số lượng số dương trên biên trong ma trận các số thực
 Bài 342(*): Đếm số lượng phần tử cực đại trong ma trận các số thực. Một phần tử được gọi là cực đại khi nó lớn hơn các phần tử xung quanh
 Bài 343(*): Đếm số lượng phần tử cực trị trong ma trận các số thực. Một phần tử được gọi là cực trị khi nó lớn hớn các phần tử xung quanh hoặc nhỏ hơn các phần tử xung quanh
 Bài 344(*): Đếm số lượng giá trị có trong ma trận các số thực. Chú ý: Nếu có k phần tử (k >= 1) trong ma trận bằng nhau thì ta chỉ tính là 1
@@ -44,9 +44,9 @@ Bài 349: Kiểm tra ma trận có tồn tại số hoàn thiện hay không
 ---Bài 352: Kiểm tra một hàng ma trận có tăng dần hay không
 ---Bài 353: Kiểm tra một cột ma trận có giảm dần hay không
 ---Bài 354: Kiểm tra các giá trị trong ma trận có giảm dần theo dòng và cột hay không
---Bài 355: Liệt kê các dòng toàn âm trong ma trận các số thực
+---Bài 355: Liệt kê các dòng toàn âm trong ma trận các số thực
 -Bài 356: Liệt kê chỉ số các dòng chứa toàn giá trị chẵn trong ma trận các số nguyên
---Bài 357: Liệt kê các dòng có chứa số nguyên tố trong ma trận các số nguyên
+---Bài 357: Liệt kê các dòng có chứa số nguyên tố trong ma trận các số nguyên
 ---Bài 358: Liệt kê các dòng có chứa giá trị chẵn trong ma trận các số nguyên
 -Bài 359: Liệt kê các dòng có chứa giá trị âm trong ma trận các số thực
 ---Bài 360: Liệt kê các cột trong ma trận các số nguyên có chứa số chính phương
