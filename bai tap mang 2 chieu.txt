@@ -51,13 +51,13 @@ Bài 349: Kiểm tra ma trận có tồn tại số hoàn thiện hay không
 -Bài 359: Liệt kê các dòng có chứa giá trị âm trong ma trận các số thực
 ---Bài 360: Liệt kê các cột trong ma trận các số nguyên có chứa số chính phương
 -Bài 361: Liệt kê các dòng trong ma trận các số thực thỏa mãn đồng thời các điều kiện sau:  dòng có chứa giá trị âm, giá trị 0 và giá trị dương
---Bài 362: Liệt kê các dòng giảm dần trong ma trận
+---Bài 362: Liệt kê các dòng giảm dần trong ma trận
 -Bài 363: Liệt kê các cột tăng dần trong ma trận
 ***Bài 364: Cho 2 ma trận A và B. Kiểm tra xem ma trận A có là ma trận con của ma trận B hay không
 Bài 365: Cho 2 ma trận A và B. Đếm số lần xuất hiện của ma trận A trong ma trận B
 Kỹ thuật đặt lính canh
 ---Bài 366: Tìm số chẵn đầu tiên trong ma trận
---Bài 367: Tìm max trong ma trận
+---Bài 367: Tìm max trong ma trận
 ***Bài 368: Tìm giá trị lớn thứ 2 trong ma trận
 Bài 369: Tìm số dương đầu tiên trong ma trận
 Bài 370: Tìm giá trị âm lớn nhất trong ma trận
@@ -75,10 +75,10 @@ Bài 380: Đếm số lượng chẵn nhỏ nhất
 --Bài 382: Tìm số chính phương lớn nhất
 Bài 383: Tìm số hoàn thiện nhỏ nhất
 ---Bài 384: Tìm các chữ số xuất hiện nhiều nhất trong ma trận
---Bài 385: Liệt kê các dòng có tổng lớn nhất
---Bài 386: Liệt kê các cột có tổng nhỏ nhất
---Bài 387: Liệt kê các dòng có nhiều số chẵn nhất
---Bài 388: Liệt kê các dòng có nhiều số nguyên tố nhất
+---Bài 385: Liệt kê các dòng có tổng lớn nhất
+---Bài 386: Liệt kê các cột có tổng nhỏ nhất
+***Bài 387: Liệt kê các dòng có nhiều số chẵn nhất
+***Bài 388: Liệt kê các dòng có nhiều số nguyên tố nhất
 Bài 389: Liệt kê các dòng có nhiều số hoàn thiện nhất
 Bài 390(*): Liệt kê các cột nhiều chữ số nhất trong ma trận các số nguyên
 Bài 391(*): Tìm ma trận con có tổng lớn nhất

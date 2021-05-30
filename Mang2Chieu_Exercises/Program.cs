@@ -108,7 +108,7 @@ namespace Mang2Chieu_Exercises
             //Bai_355.RowAllNegativeCheck(B);
 
             //Bai 357: Liet ke cac dong chua so nguyen to
-            Bai_357.SoNguyenToRowFilter(A);
+            //Bai_357.SoNguyenToRowFilter(A);
 
             ////Bai 362: Liet ke cac dong gia tri tang dan trong ma tran so thuc
             //Bai_362.RowAscendCheck(B);
@@ -126,6 +126,9 @@ namespace Mang2Chieu_Exercises
             //Bai_387.DongCoNhieuSoChanNhat(A);
 
             //Bai 388: Tim dong co nhieu so chan
+            //Bai_388.DongCoNhieuSoNguyenToNhat(A);
+
+            //Liet ke cac dong co nhieu so nguyen to nhat
             Bai_388.DongCoNhieuSoNguyenToNhat(A);
         }
     }

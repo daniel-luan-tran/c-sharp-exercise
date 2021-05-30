@@ -12,14 +12,13 @@ namespace Mang2Chieu_Exercises
 				if (array[dong_i, j] <= 1)
 				{
 					check = false;
-					continue;
 				}
+
 				for (int k = 2; k < array[dong_i,j]; k++)
                 {
 					if (array[dong_i, j] % k == 0)
 					{
 						check = false;
-						continue;
 					}
 				}
 			}
