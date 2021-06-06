@@ -56,19 +56,19 @@ Bài 349: Kiểm tra ma trận có tồn tại số hoàn thiện hay không
 ***Bài 364: Cho 2 ma trận A và B. Kiểm tra xem ma trận A có là ma trận con của ma trận B hay không
 Bài 365: Cho 2 ma trận A và B. Đếm số lần xuất hiện của ma trận A trong ma trận B
 Kỹ thuật đặt lính canh
----Bài 366: Tìm số chẵn đầu tiên trong ma trận
+***Bài 366: Tìm số chẵn đầu tiên trong ma trận
 ---Bài 367: Tìm max trong ma trận
 ***Bài 368: Tìm giá trị lớn thứ 2 trong ma trận
-Bài 369: Tìm số dương đầu tiên trong ma trận
-Bài 370: Tìm giá trị âm lớn nhất trong ma trận
-Bài 371: Liệt kê các dòng có chứa max
+---Bài 369: Tìm số dương đầu tiên trong ma trận
+---Bài 370: Tìm giá trị âm lớn nhất trong ma trận
+---Bài 371: Liệt kê các dòng có chứa max
 Bài 372: Tìm giá trị lớn nhất trên 1 dòng
 Bài 373: Tìm giá trị nhỏ nhất trên 1 cột
 Bài 374: Tìm số nguyên tố đầu tiên
 Bài 375: Tìm số chẵn lớn nhất
 Bài 376: Tìm số dương nhỏ nhất
 Bài 377: Tìm số nguyên tố lớn nhất
-Bài 378: Tìm 1 chữ số xuất hiện nhiều nhất
+***Bài 378: Tìm 1 chữ số xuất hiện nhiều nhất
 Bài 379: Đếm số lượng min
 Bài 380: Đếm số lượng chẵn nhỏ nhất
 ---Bài 381: Tìm giá trị xuất hiện nhiều nhất

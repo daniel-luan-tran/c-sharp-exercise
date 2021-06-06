@@ -9,14 +9,14 @@ namespace Mang2Chieu_Exercises
             Console.WriteLine("Hello World!");
 
 
-            /////////////////////////////
-            //Nhap ma tran so nguyen A
-            int[,] A;
-            A = XL_MaTran.Nhapmatran_Songuyen();
+            ///////////////////////////////
+            ////Nhap ma tran so nguyen A
+            //int[,] A;
+            //A = XL_MaTran.Nhapmatran_Songuyen();
 
-            //Xuat ma tran so nguyen
-            XL_MaTran.Xuatmatran_Songuyen(A);
-            /////////////////////////////
+            ////Xuat ma tran so nguyen
+            //XL_MaTran.Xuatmatran_Songuyen(A);
+            ///////////////////////////////
 
 
             ////Bai 316: Kiem tra so nguyen chan be hon 2015
@@ -38,14 +38,14 @@ namespace Mang2Chieu_Exercises
             //XL_MaTran.Xuatmatran_Sothuc(A);
             /////////////////////////////////
 
-            /////////////////////////////////
-            ////Nhap ma tran so thuc
-            //double[,] B;
-            //B = XL_MaTran.Nhapmatran_Sothuc();
+            ///////////////////////////////
+            //Nhap ma tran so thuc
+            double[,] B;
+            B = XL_MaTran.Nhapmatran_Sothuc();
 
-            ////Xuat ma tran so thuc
-            //XL_MaTran.Xuatmatran_Sothuc(B);
-            /////////////////////////////////
+            //Xuat ma tran so thuc
+            XL_MaTran.Xuatmatran_Sothuc(B);
+            ///////////////////////////////
 
 
             ////Bai 315: Tim Max cua ma tran so thuc B
@@ -128,8 +128,23 @@ namespace Mang2Chieu_Exercises
             //Bai 388: Tim dong co nhieu so chan
             //Bai_388.DongCoNhieuSoNguyenToNhat(A);
 
-            //Liet ke cac dong co nhieu so nguyen to nhat
-            Bai_388.DongCoNhieuSoNguyenToNhat(A);
+            ////Bai 388: Liet ke cac dong co nhieu so nguyen to nhat
+            //Bai_388.DongCoNhieuSoNguyenToNhat(A);
+
+            ////Bai 369: Tim gia tri duong dau tien trong ma tran so thuc
+            //Bai_369.FirstPositive(B);
+
+            ////Bai 371: Liet ke dong co chua gia tri Max
+            //Bai_371.RowMaxValueFilter(B);
+
+            ////Bai 370: Tim gia tri am lon nhat trong ma tran
+            //Bai_370.MaxNegative(B);
+
+            ////Bai_369: Tim gia tri duong dau tien
+            //Bai_369.FirstPositive(B);
+
+            //Bai 378: Tim gia tri lap lai nhieu nhat
+            Bai_378.CountMaxValue(B);
         }
     }
 }

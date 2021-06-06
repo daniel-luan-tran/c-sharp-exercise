@@ -1,0 +1,16 @@
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.exe
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.deps.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.runtimeconfig.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.runtimeconfig.dev.json
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\ref\DaiSo.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\bin\Debug\net5.0\DaiSo.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.csproj.AssemblyReference.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.AssemblyInfoInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.AssemblyInfo.cs
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.csproj.CoreCompileInputs.cache
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\ref\DaiSo.dll
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.pdb
+C:\Users\UserDLT\OneDrive\KHTN\Nhap_Mon_Lap_Trinh\c-sharp-exercise\DaiSo\obj\Debug\net5.0\DaiSo.genruntimeconfig.cache
